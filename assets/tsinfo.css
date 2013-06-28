@@ -1,0 +1,8 @@
+.chart rect {
+	stroke: white;
+	fill: steelblue;
+}
+
+.chart {
+	padding: 1em;
+}
